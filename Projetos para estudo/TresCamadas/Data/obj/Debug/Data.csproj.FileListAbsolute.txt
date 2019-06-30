@@ -1,6 +1,0 @@
-C:\Users\Administrador\Documents\Projetos para estudo\TresCamadas\Data\bin\Debug\Data.dll
-C:\Users\Administrador\Documents\Projetos para estudo\TresCamadas\Data\bin\Debug\Data.pdb
-C:\Users\Administrador\Documents\Projetos para estudo\TresCamadas\Data\obj\Debug\Data.csprojAssemblyReference.cache
-C:\Users\Administrador\Documents\Projetos para estudo\TresCamadas\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
-C:\Users\Administrador\Documents\Projetos para estudo\TresCamadas\Data\obj\Debug\Data.dll
-C:\Users\Administrador\Documents\Projetos para estudo\TresCamadas\Data\obj\Debug\Data.pdb
