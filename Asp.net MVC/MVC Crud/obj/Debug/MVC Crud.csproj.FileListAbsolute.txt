@@ -1,0 +1,78 @@
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\MVC Crud.dll.config
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\MVC Crud.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\MVC Crud.pdb
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\csc.exe
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\csc.exe.config
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\csc.rsp
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\csi.exe
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\csi.exe.config
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\csi.rsp
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.AppContext.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Console.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\vbc.exe
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\vbc.exe.config
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\vbc.rsp
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\Antlr3.Runtime.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\Business.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\Newtonsoft.Json.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\System.Web.Helpers.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\System.Web.Mvc.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\System.Web.Optimization.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\System.Web.Razor.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\System.Web.WebPages.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\WebGrease.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\Business.pdb
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\System.Web.Helpers.xml
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\System.Web.Mvc.xml
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\System.Web.Optimization.xml
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\System.Web.Razor.xml
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\System.Web.WebPages.xml
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\Newtonsoft.Json.xml
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\Antlr3.Runtime.pdb
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\obj\Debug\MVC Crud.csprojAssemblyReference.cache
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\obj\Debug\MVC Crud.csproj.CoreCompileInputs.cache
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\obj\Debug\MVC Crud.csproj.CopyComplete
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\obj\Debug\MVC Crud.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\MVC Crud\obj\Debug\MVC Crud.pdb
