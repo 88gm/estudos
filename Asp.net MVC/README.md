@@ -1,3 +1,3 @@
-# C# Layered Architecture Pattern
+# Asp.net MVC Application
 
-Project built in order to test layered pattern in C#
+Project built in order to test Asp.net MVC architecture pattern
