@@ -10,3 +10,15 @@ C:\Users\Administrador\Documents\GitHub\estudos\Projetos para estudo\TresCamadas
 C:\Users\Administrador\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\obj\Debug\UI.csproj.CopyComplete
 C:\Users\Administrador\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\obj\Debug\TresCamadas.exe
 C:\Users\Administrador\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\obj\Debug\TresCamadas.pdb
+C:\Users\Rekaption\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\bin\Debug\TresCamadas.exe.config
+C:\Users\Rekaption\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\bin\Debug\TresCamadas.exe
+C:\Users\Rekaption\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\bin\Debug\TresCamadas.pdb
+C:\Users\Rekaption\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\bin\Debug\Business.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\bin\Debug\Data.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\bin\Debug\Business.pdb
+C:\Users\Rekaption\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\bin\Debug\Data.pdb
+C:\Users\Rekaption\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Rekaption\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Rekaption\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Rekaption\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\obj\Debug\TresCamadas.exe
+C:\Users\Rekaption\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\obj\Debug\TresCamadas.pdb
