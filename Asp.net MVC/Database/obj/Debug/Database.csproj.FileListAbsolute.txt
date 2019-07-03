@@ -1,6 +1,0 @@
-C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\Database\bin\Debug\Database.dll
-C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\Database\bin\Debug\Database.pdb
-C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\Database\obj\Debug\Database.csprojAssemblyReference.cache
-C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
-C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\Database\obj\Debug\Database.dll
-C:\Users\Rekaption\Documents\GitHub\estudos\Asp.net MVC\Database\obj\Debug\Database.pdb
