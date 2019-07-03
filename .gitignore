@@ -1,0 +1,3 @@
+# Ignore IDE files and folders
+/Asp.net%20MVC/.vs
+packages
