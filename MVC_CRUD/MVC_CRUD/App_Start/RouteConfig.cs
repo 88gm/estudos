@@ -14,6 +14,24 @@ namespace MVC_CRUD
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
+                "teste_parametro",
+                "sobre/{id}/teste",
+                new { controller = "Home", action = "about", id = 0}
+                );
+
+            routes.MapRoute(
+                "Sobre",
+                "Sobre",
+                new {controller = "Home", action = "about"}
+                );
+
+            routes.MapRoute(
+                "Contato",
+                "Contato",
+                new {controller = "Home", action = "contact"}
+                );
+
+            routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
