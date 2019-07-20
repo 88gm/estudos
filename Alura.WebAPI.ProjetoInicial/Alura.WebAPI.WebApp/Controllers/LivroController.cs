@@ -59,6 +59,16 @@ namespace Alura.ListaLeitura.WebApp.Controllers
             return View(model.ToModel());
         }
 
+        public ActionResult<LivroUpload> DetalhesEmJSON(int id)
+        {
+            var model = _repo.Find(id);
+            if (model == null)
+            {
+                return NotFound();
+            }
+            return model.ToModel();
+        }
+
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Detalhes(LivroUpload model)
