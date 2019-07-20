@@ -22,3 +22,15 @@ C:\Users\Rekaption\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\
 C:\Users\Rekaption\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\obj\Debug\UI.csproj.CopyComplete
 C:\Users\Rekaption\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\obj\Debug\TresCamadas.exe
 C:\Users\Rekaption\Documents\GitHub\estudos\Projetos para estudo\TresCamadas\UI\obj\Debug\TresCamadas.pdb
+C:\Users\Rekaption\Documents\GitHub\estudos\C# Layered Architecture Pattern\ThreeLayers\UI\bin\Debug\TresCamadas.exe.config
+C:\Users\Rekaption\Documents\GitHub\estudos\C# Layered Architecture Pattern\ThreeLayers\UI\bin\Debug\TresCamadas.exe
+C:\Users\Rekaption\Documents\GitHub\estudos\C# Layered Architecture Pattern\ThreeLayers\UI\bin\Debug\TresCamadas.pdb
+C:\Users\Rekaption\Documents\GitHub\estudos\C# Layered Architecture Pattern\ThreeLayers\UI\bin\Debug\Business.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\C# Layered Architecture Pattern\ThreeLayers\UI\bin\Debug\Data.dll
+C:\Users\Rekaption\Documents\GitHub\estudos\C# Layered Architecture Pattern\ThreeLayers\UI\bin\Debug\Business.pdb
+C:\Users\Rekaption\Documents\GitHub\estudos\C# Layered Architecture Pattern\ThreeLayers\UI\bin\Debug\Data.pdb
+C:\Users\Rekaption\Documents\GitHub\estudos\C# Layered Architecture Pattern\ThreeLayers\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Rekaption\Documents\GitHub\estudos\C# Layered Architecture Pattern\ThreeLayers\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Rekaption\Documents\GitHub\estudos\C# Layered Architecture Pattern\ThreeLayers\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Rekaption\Documents\GitHub\estudos\C# Layered Architecture Pattern\ThreeLayers\UI\obj\Debug\TresCamadas.exe
+C:\Users\Rekaption\Documents\GitHub\estudos\C# Layered Architecture Pattern\ThreeLayers\UI\obj\Debug\TresCamadas.pdb

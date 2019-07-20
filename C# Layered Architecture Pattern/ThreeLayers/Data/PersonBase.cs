@@ -8,19 +8,16 @@ namespace Datahandler
 {
     public abstract class PersonBase : IPerson
     {
+        public string Name { get; protected set; }
+        public string Cpf {  get; protected set; }
+        public string Phone { get; protected set; }
+
         public PersonBase(string name, string cpf, string phone)
         {
-            this.name = name;
-            this.cpf = cpf;
-            this.phone = phone;
+            this.Name = name;
+            this.Cpf = cpf;
+            this.Phone = phone;
         }
-        public PersonBase () { }
-
-        protected string name, cpf, phone;    
-
-        public void setName(string name) { this.name = name; }
-        public void setCpf (string cpf) { this.cpf = cpf; }
-        public void setPhone(string phone) { this.phone = phone; }
 
         public void save()
         {

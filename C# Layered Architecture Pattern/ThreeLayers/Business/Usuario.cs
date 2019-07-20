@@ -8,18 +8,11 @@ namespace Core
 {
     public class Usuario : PersonBase
     {
-        public Usuario(string name, string phone, string cpf)
+        public string password { get; protected set; }
+        public Usuario(string name, string phone, string cpf, string password):base(name, cpf, phone)
         {
-            this.name = name;
-            this.phone = phone;
-            this.cpf = cpf;
+            this.password = password;
         }
 
-        public string getCpf()
-        {
-            return this.cpf;
-        }
-
-        public Usuario() { }
     }
 }

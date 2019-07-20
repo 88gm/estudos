@@ -8,9 +8,6 @@ namespace Datahandler
 {
     public interface IPerson
     {
-        void setName(string name);
-        void setCpf(string cpf);
-        void setPhone(string phone);
         void save();
     }
 }

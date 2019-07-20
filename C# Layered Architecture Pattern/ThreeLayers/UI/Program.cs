@@ -1,9 +1,5 @@
 ﻿using System;
-using Core;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using TresCamadas;
 
 namespace UI
 {
@@ -15,8 +11,8 @@ namespace UI
             int infinite = 1;
             do
             {
-                Controles.Singleton.showMenu();
-                Controles.Singleton.menuInput(Console.ReadLine());
+                UserInterface.showMenu();
+                UserInterface.menuInput(Console.ReadLine());
                 Console.ReadLine();
             } while (infinite > 0);
         }
