@@ -30,7 +30,7 @@ namespace TresCamadas
                     string cpf = Console.ReadLine();
                     Console.Write("\nInsira uma senha para o novo usuário: ");
                     string password = Console.ReadLine();
-                    Usuario user = new Usuario(name, phone, cpf, password);
+                    var user = new Usuario(name, phone, cpf, password);
                     Console.Clear();
                     Console.Write($"Usuario cadastrado com sucesso. \nCPF: {user.Cpf}\n");
                     return user;
